@@ -1,0 +1,6 @@
+# Package Related
+node_modules/**/*
+yarn.lock
+
+# Mac OS
+.DS_Store
